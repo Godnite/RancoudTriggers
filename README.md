@@ -16,6 +16,8 @@
 * crazy max
 * devenir une mouche
 * harcelement sur twitch
+* hitman trouve
+* hitman perdu
 * invraisemblable
 * je ne suis pas trop perdu
 * je vais t'enculer
@@ -31,7 +33,6 @@
 * scrotus
 * table de rectum
 * tablier
-* y'a hitman trouve
 * welcome les gens
 
 # Trigger Fort Boyard
