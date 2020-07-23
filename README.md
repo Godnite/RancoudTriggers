@@ -15,6 +15,8 @@
 * chut taisez vous
 * crazy max
 * devenir une mouche
+* emploi
+* entretien d'embauche
 * harcelement sur twitch
 * hitman trouve
 * hitman perdu
@@ -27,6 +29,7 @@
 * madame irene
 * mv
 * parle a mes burnes
+* perdu / piano / bonheur
 * ping
 * premium beat copyright
 * regard mystérieux
