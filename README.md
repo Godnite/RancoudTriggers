@@ -27,7 +27,7 @@
 * la sieste
 * le couillon
 * madame irene
-* mv
+* mv / sardoche
 * parle a mes burnes
 * perdu / piano / bonheur
 * ping
