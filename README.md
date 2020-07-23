@@ -28,6 +28,7 @@
 * le couillon
 * madame irene
 * mv / sardoche
+* ^nain
 * parle a mes burnes
 * perdu / piano / bonheur
 * ping
