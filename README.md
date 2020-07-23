@@ -33,6 +33,7 @@
 * scrotus
 * table de rectum
 * tablier
+* technique
 * welcome les gens
 
 # Trigger Fort Boyard
