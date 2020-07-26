@@ -9,6 +9,7 @@
 * binaire
 * blueone
 * boulanger
+* casse couille
 * cest quoi ta chaine
 * chill
 * chut je vais te tuer
@@ -16,13 +17,13 @@
 * crazy max
 * devenir une mouche
 * emploi
+* enculer
 * entretien d'embauche
 * harcelement sur twitch
 * hitman trouve
 * hitman perdu
 * invraisemblable
 * je ne suis pas trop perdu
-* je vais t'enculer
 * la haine
 * la sieste
 * le couillon
