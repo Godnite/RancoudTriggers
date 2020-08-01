@@ -29,6 +29,7 @@
 * la sieste
 * le couillon
 * madame irene
+* micro
 * mv / sardoche
 * ^nain
 * parle a mes burnes
