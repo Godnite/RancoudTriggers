@@ -3,6 +3,7 @@
 * alea jacta est
 * appeler internet
 * au revoir
+* aws / babbel / laravel / symphony / webpack
 * baiser ta femme
 * bières tièdes
 * bifle
