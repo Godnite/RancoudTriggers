@@ -12,6 +12,7 @@
 * boulanger
 * casse couille
 * cest quoi ta chaine
+* c'est honteux
 * chill
 * chut je vais te tuer
 * chut taisez vous
